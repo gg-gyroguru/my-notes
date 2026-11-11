@@ -1,0 +1,36 @@
+[
+  {
+    "id": "mp-deled-1st-year",
+    "title": "MP D.El.Ed First Year Complete Notes",
+    "shortTitle": "First Year (1st Year)",
+    "code": "MPBSE D.El.Ed Year I · Paper Codes 801–810",
+    "description": "Comprehensive bilingual (Hindi & English) unit-wise study notes for MP D.El.Ed 1st Year. Crafted specifically for board exam mastery with structured answers, pedagogical flowcharts, and 5-year solved PYQs.",
+    "originalPrice": 999,
+    "features": [
+      "Every Unit Detailed Notes",
+      "Solved Previous Year Question Papers (PYQs)",
+      "Exam-Oriented Short Notes"
+    ],
+    "subjectsCount": 10,
+    "totalUnitsCount": 25,
+    "pyqYearsCovered": "2020–2025 Solved",
+    "thumbnail": "/images/deled-1st-year.jpg"
+  },
+  {
+    "id": "mp-deled-2nd-year",
+    "title": "MP D.El.Ed Second Year Complete Notes",
+    "shortTitle": "Second Year (2nd Year)",
+    "code": "MPBSE D.El.Ed Year II · Paper Codes 901–911",
+    "description": "Advanced curriculum & pedagogy master notes for MP D.El.Ed 2nd Year. Covers cognition, educational society, school leadership, and subject methodology with high-scoring answer templates and solved PYQs.",
+    "originalPrice": 1199,
+    "features": [
+      "Every Unit Detailed Notes",
+      "Solved Previous Year Question Papers (PYQs)",
+      "Exam-Oriented Short Notes"
+    ],
+    "subjectsCount": 8,
+    "totalUnitsCount": 20,
+    "pyqYearsCovered": "2020–2025 Solved",
+    "thumbnail": "/images/deled-2nd-year.jpg"
+  }
+]

@@ -1,0 +1,474 @@
+{
+  "mp-deled-1st-year": [
+    {
+      "id": "balyavastha-evam-bal-vikas-801",
+      "code": "Paper 801",
+      "title": "Balyavastha evam Bal Vikas",
+      "englishTitle": "Childhood and Development of Children",
+      "description": "Foundational principles of child growth, developmental stages, socialization agencies, and emotional-motor progression in early and middle childhood.",
+      "unitsCount": 5,
+      "units": [
+        {
+          "id": "801-unit-1",
+          "unitNumber": "Unit 1",
+          "title": "Perspectives on Childhood & Growth Principles",
+          "hindiTitle": "बाल्यावस्था की समझ एवं वृद्धि तथा विकास के सिद्धांत",
+          "type": "Detailed Notes",
+          "pages": 28,
+          "pdfFile": "mp-deled-1st-year/801-unit-1.pdf",
+          "summary": "Covers multidimensional concepts of childhood across historical and socio-cultural contexts, difference between growth (वृद्धि) and development (विकास), Piaget & Erikson foundational stages, and factors affecting child development.",
+          "keyTopics": [
+            "Concept & Anthropological View of Childhood (बाल्यावस्था की अवधारणा)",
+            "Principles of Continuous vs Discontinuous Development",
+            "Heredity & Environment Interaction (आनुवंशिकता एवं वातावरण)",
+            "Methods of Child Study: Observation, Case Study & Clinical Interview"
+          ],
+          "examQuestions": [
+            {
+              "q": "वृद्धि और विकास में मुख्य अंतर स्पष्ट कीजिए तथा विकास के प्रमुख सिद्धांतों का वर्णन कीजिए। (Differentiate between Growth and Development and explain key principles of development.)",
+              "a": "वृद्धि (Growth) मात्रात्मक (Quantitative) परिवर्तन है जो शारीरिक आकार, भार एवं ऊँचाई में दिखाई देता है, जबकि विकास (Development) गुणात्मक एवं मात्रात्मक दोनों परिवर्तनों का समन्वित रूप है जिसमें मानसिक, सामाजिक, संवेगात्मक और नैतिक परिपक्वता शामिल है। प्रमुख सिद्धांत: (1) निरंतरता का सिद्धांत, (2) व्यक्तिगत भिन्नता का सिद्धांत, (3) सिर-से-पैर (Cephalocaudal) एवं केंद्र-से-परिधि (Proximodistal) विकास क्रम।"
+            },
+            {
+              "q": "बाल विकास को प्रभावित करने वाले आंतरिक एवं बाह्य कारकों की विवेचना कीजिए।",
+              "a": "आंतरिक कारक: आनुवंशिकता (Heredity), जैविक एवं संवैधानिक कारक, बुद्धि (Intelligence), संवेगात्मक परिपक्वता। बाह्य कारक: परिवार का सामाजिक-आर्थिक स्तर, पोषण, विद्यालय का वातावरण एवं सांस्कृतिक मूल्य।"
+            }
+          ]
+        },
+        {
+          "id": "801-unit-2",
+          "unitNumber": "Unit 2",
+          "title": "Physical, Motor & Emotional Development",
+          "hindiTitle": "शारीरिक, गामक एवं संवेगात्मक विकास",
+          "type": "Detailed Notes",
+          "pages": 24,
+          "pdfFile": "mp-deled-1st-year/801-unit-2.pdf",
+          "summary": "Gross and fine motor skills milestones, Bowlby's attachment theory, emotional regulation in primary school children, and personality development theories.",
+          "keyTopics": [
+            "Gross & Fine Motor Coordination (स्थूल एवं सूक्ष्म गामक कौशल)",
+            "Bowlby & Ainsworth Attachment Patterns (लगाव के सिद्धांत)",
+            "Emotional Maturity & Classroom Support Strategies",
+            "Freud & Erikson Psychosocial Stages in Primary School Years"
+          ],
+          "examQuestions": [
+            {
+              "q": "एरिक्सन के मनोसामाजिक विकास सिद्धांत के प्रथम चार चरणों को शिक्षा के संदर्भ में समझाइए।",
+              "a": "एरिक एरिक्सन ने जीवन-अवधि को 8 मनोसामाजिक संकटों में बाँटा है: (1) विश्वास बनाम अविश्वास (0-1.5 वर्ष), (2) स्वायत्तता बनाम लज्जा/शंका (1.5-3 वर्ष), (3) पहल बनाम अपराधबोध (3-6 वर्ष), (4) परिश्रम बनाम हीनता (6-12 वर्ष - प्राथमिक विद्यालय स्तर, जहाँ शिक्षक की प्रशंसा बालक में आत्म-दक्षता विकसित करती है)।"
+            }
+          ]
+        },
+        {
+          "id": "801-pyqs",
+          "unitNumber": "Solved PYQs",
+          "title": "Solved Previous Year Question Papers (2020–2025)",
+          "hindiTitle": "विगत वर्षों के हल प्रश्न-पत्र (Paper 801 Solved PYQs)",
+          "type": "Solved PYQs",
+          "pages": 36,
+          "pdfFile": "mp-deled-1st-year/801-solved-pyqs.pdf",
+          "summary": "Complete MPBSE board exam solved papers with marking-scheme blueprints, model diagrams, and 2-mark / 5-mark / 10-mark structured answers.",
+          "keyTopics": [
+            "MPBSE 2024–25 Full Solved Paper with Examiner Blueprint",
+            "Top 30 Most Repeated Short & Long Questions",
+            "Child Socialization & Media Impact Model Answers",
+            "Quick 1-Page Revision Sheet Before Exam Morning"
+          ],
+          "examQuestions": [
+            {
+              "q": "[MPBSE 2024] समाजीकरण (Socialization) से आप क्या समझते हैं? बालक के समाजीकरण में परिवार एवं विद्यालय की भूमिका स्पष्ट कीजिए।",
+              "a": "समाजीकरण वह प्रक्रिया है जिसके द्वारा जैविक प्राणी सामाजिक मूल्यों, मानदंडों और व्यवहार प्रतिमानों को सीखकर समाज का क्रियाशील सदस्य बनता है। परिवार 'प्राथमिक अभिकरण' (Primary Agency) है जहाँ भाषा, स्नेह और नैतिकता की नींव पड़ती है; विद्यालय 'द्वितीयक अभिकरण' (Secondary Agency) है जो लोकतांत्रिक नागरिकता, सहयोग और अनुशासन विकसित करता है।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "samkalin-bharatiya-samaj-mein-shiksha-802",
+      "code": "Paper 802",
+      "title": "Samkalin Bharatiya Samaj mein Shiksha",
+      "englishTitle": "Education in Contemporary Indian Society",
+      "description": "Constitutional provisions, RTE Act 2009, NEP 2020, educational thinkers (Tagore, Gandhi, Gijubhai, Freire), and social equity in Indian classrooms.",
+      "unitsCount": 4,
+      "units": [
+        {
+          "id": "802-unit-1",
+          "unitNumber": "Unit 1",
+          "title": "Indian Constitution, Social Justice & RTE Act 2009",
+          "hindiTitle": "भारतीय संविधान, सामाजिक न्याय एवं शिक्षा का अधिकार अधिनियम 2009",
+          "type": "Detailed Notes",
+          "pages": 30,
+          "pdfFile": "mp-deled-1st-year/802-unit-1.pdf",
+          "summary": "Detailed study of Preamble values, Article 21A, Articles 14, 15, 29, 30, 45, and salient features of the Right to Education (RTE) Act 2009.",
+          "keyTopics": [
+            "Constitutional Articles for Education (अनुच्छेद 21A, 45, 51A-k)",
+            "RTE Act 2009 Responsibilities of Schools & Teachers",
+            "Marginalization, Gender Equity & Inclusive Classrooms",
+            "Kothari Commission (1964-66) to NEP 2020 Evolution"
+          ],
+          "examQuestions": [
+            {
+              "q": "शिक्षा का अधिकार अधिनियम (RTE Act 2009) की प्रमुख विशेषताओं एवं शिक्षक के दायित्वों का वर्णन कीजिए।",
+              "a": "1 अप्रैल 2010 से लागू RTE अधिनियम 6 से 14 वर्ष के प्रत्येक बालक को निःशुल्क एवं अनिवार्य प्रारंभिक शिक्षा का मौलिक अधिकार (अनुच्छेद 21A) प्रदान करता है। प्रमुख बिंदु: 25% अलाभित समूह आरक्षण, नो-डिटेंशन एवं सतत व्यापक मूल्यांकन (CCE), शारीरिक दंड निषेध, तथा शिक्षक द्वारा समय की पाबंदी और पाठ्यक्रम पूर्ण करना।"
+            }
+          ]
+        },
+        {
+          "id": "802-unit-2",
+          "unitNumber": "Unit 2",
+          "title": "Educational Thinkers: Gandhi, Tagore, Gijubhai & Montessori",
+          "hindiTitle": "प्रमुख शैक्षिक विचारक: गांधीजी, टैगोर, गिजुभाई एवं मोंटेसरी",
+          "type": "Detailed Notes",
+          "pages": 26,
+          "pdfFile": "mp-deled-1st-year/802-unit-2.pdf",
+          "summary": "Comparative chart of Nai Talim (Basic Education), Shantiniketan naturalism, Gijubhai Badheka's Divaswapna, and John Dewey's progressive education.",
+          "keyTopics": [
+            "Mahatma Gandhi's Nai Talim / Buniyadi Shiksha (3H Formula: Head, Heart, Hand)",
+            "Rabindranath Tagore's Experiential & Nature-Centric Pedagogy",
+            "Gijubhai Badheka's 'Divaswapna' Child-Centric Experiments",
+            "Paulo Freire's Critical Pedagogy & Banking Model Critique"
+          ],
+          "examQuestions": [
+            {
+              "q": "महात्मा गांधी की 'बुनियादी शिक्षा' (नई तालीम) के मूल सिद्धांत क्या हैं?",
+              "a": "1937 के वर्धा शिक्षा सम्मेलन में प्रस्तुत बुनियादी शिक्षा के मूल सिद्धांत: (1) मातृभाषा के माध्यम से शिक्षा, (2) हस्तकौशल/उत्पादक कार्य (Craft-centered education) को शिक्षा का केंद्र बनाना, (3) स्वावलंबन, (4) अहिंसा एवं सर्वोदय समाज का निर्माण।"
+            }
+          ]
+        },
+        {
+          "id": "802-pyqs",
+          "unitNumber": "Solved PYQs",
+          "title": "Paper 802 Solved PYQs & Exam Short Notes",
+          "hindiTitle": "पेपर 802 हल प्रश्न-पत्र एवं परीक्षा उपयोगी शॉर्ट नोट्स",
+          "type": "Solved PYQs",
+          "pages": 32,
+          "pdfFile": "mp-deled-1st-year/802-solved-pyqs.pdf",
+          "summary": "5-year solved board papers for Paper 802 with comparative thinker tables and constitutional article memory triggers.",
+          "keyTopics": [
+            "Thinkers Comparison Matrix (1-Page Cheat Sheet)",
+            "All Constitutional Articles Related to Education",
+            "2020–2025 MPBSE Solved Questions"
+          ],
+          "examQuestions": [
+            {
+              "q": "[MPBSE 2023] गिजुभाई बधेका की पुस्तक 'दिवास्वप्न' का शैक्षिक महत्व स्पष्ट कीजिए।",
+              "a": "'दिवास्वप्न' में गिजुभाई ने रटंत और भय-आधारित पारंपरिक विद्यालयी व्यवस्था को चुनौती देते हुए कहानी, खेल, नाटक और बाल-सुलभ जिज्ञासा के माध्यम से प्राथमिक शिक्षा में क्रांतिकारी बदलाव का सजीव चित्रण किया है।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "purva-balyavastha-paricharya-evam-shiksha-803",
+      "code": "Paper 803",
+      "title": "Purva Balyavastha Paricharya evam Shiksha",
+      "englishTitle": "Early Childhood Care and Education (ECCE)",
+      "description": "ECCE curriculum design, play-way pedagogy, Anganwadi & Balvatika frameworks, developmental readiness, and inclusive early learning environments.",
+      "unitsCount": 3,
+      "units": [
+        {
+          "id": "803-unit-1",
+          "unitNumber": "Unit 1",
+          "title": "Foundations of ECCE & Play-Based Pedagogy",
+          "hindiTitle": "पूर्व बाल्यावस्था देखभाल एवं खेल-आधारित शिक्षण",
+          "type": "Detailed Notes",
+          "pages": 22,
+          "pdfFile": "mp-deled-1st-year/803-unit-1.pdf",
+          "summary": "Significance of critical brain development in ages 3–6, NCF-FS (Foundational Stage) Panchakosha Vikas, and Balvatika structure.",
+          "keyTopics": [
+            "Concept & Objectives of ECCE in NEP 2020 (3–8 Years Foundational Stage)",
+            "Play-Way & Activity-Based Learning (खेल एवं गतिविधि आधारित शिक्षण)",
+            "School Readiness: Pre-reading, Pre-writing & Number Readiness",
+            "Observation Portfolios & Holistic Progress Cards"
+          ],
+          "examQuestions": [
+            {
+              "q": "पूर्व बाल्यावस्था शिक्षा (ECCE) में 'खेल' का क्या महत्व है?",
+              "a": "खेल बालक की स्वाभाविक भाषा है। खेल के माध्यम से बालक में संवेदी-गामक समन्वय (Sensory-motor coordination), भाषा विकास, भावनात्मक संतुलन, नियम पालन तथा सहयोगात्मक सामाजिक कौशल बिना किसी मानसिक दबाव के स्वतः विकसित होते हैं।"
+            }
+          ]
+        },
+        {
+          "id": "803-pyqs",
+          "unitNumber": "Solved PYQs",
+          "title": "Paper 803 Solved PYQs & Activity Plan Templates",
+          "hindiTitle": "पेपर 803 विगत वर्षों के हल प्रश्न-पत्र",
+          "type": "Solved PYQs",
+          "pages": 28,
+          "pdfFile": "mp-deled-1st-year/803-solved-pyqs.pdf",
+          "summary": "Complete solved papers and ready-to-draw weekly ECCE classroom activity schedules for full marks in long questions.",
+          "keyTopics": [
+            "Weekly Balvatika Time-Table Diagram for Exam",
+            "Low-Cost No-Cost TLM (शिक्षण अधिगम सामग्री) Examples",
+            "Solved Board Papers 2020–2025"
+          ],
+          "examQuestions": [
+            {
+              "q": "[MPBSE 2024] कम लागत या बिना लागत की शिक्षण सामग्री (Low-cost TLM) का निर्माण कैसे करेंगे?",
+              "a": "स्थानीय परिवेश में उपलब्ध वस्तुओं—जैसे पुराने अखबार, माचिस की डिब्बियाँ, कंकड़, बीज, पत्तियाँ, मिट्टी के खिलौने और गत्ते से वर्णमाला कार्ड, गिनती माला और कठपुतलियाँ बनाई जा सकती हैं।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bhasha-bodh-evam-prarambhik-bhasha-vikas-804",
+      "code": "Paper 804",
+      "title": "Bhasha Bodh evam Prarambhik Bhasha Vikas",
+      "englishTitle": "Language Comprehension & Early Language Development",
+      "description": "Psycholinguistics, Chomsky & Vygotsky on language acquisition, LSRW (सुनना, बोलना, पढ़ना, लिखना) skills, and multilingual classroom pedagogy.",
+      "unitsCount": 3,
+      "units": [
+        {
+          "id": "804-unit-1",
+          "unitNumber": "Unit 1",
+          "title": "Language Acquisition vs Learning & LSRW Skills",
+          "hindiTitle": "भाषा अर्जन एवं भाषा अधिगम तथा चारों भाषाई कौशल (सुबोपलि)",
+          "type": "Detailed Notes",
+          "pages": 25,
+          "pdfFile": "mp-deled-1st-year/804-unit-1.pdf",
+          "summary": "Noam Chomsky's Universal Grammar (LAD), Vygotsky's socio-cultural language theory, emergent literacy, and reading comprehension models.",
+          "keyTopics": [
+            "Language Acquisition (भाषा अर्जन) vs Language Learning (भाषा अधिगम)",
+            "Chomsky's LAD (Language Acquisition Device) Concept",
+            "Multilingualism as a Classroom Resource (बहुभाषिकता एक संसाधन के रूप में)",
+            "Developing Listening, Speaking, Reading & Writing (LSRW / सुबोपलि)"
+          ],
+          "examQuestions": [
+            {
+              "q": "भाषा अर्जन और भाषा अधिगम में अंतर स्पष्ट कीजिए।",
+              "a": "भाषा अर्जन (Acquisition) एक सहज, स्वाभाविक एवं अवचेतन प्रक्रिया है जिसके द्वारा बालक अपने परिवेश से मातृभाषा सीखता है। इसके विपरीत भाषा अधिगम (Learning) एक सचेत, नियमबद्ध और औपचारिक प्रक्रिया है जिसमें विद्यालय, व्याकरण एवं शिक्षक की आवश्यकता होती है।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ganit-shikshan-prarambhik-star-805",
+      "code": "Paper 805",
+      "title": "Ganit Shikshan (Prarambhik Star)",
+      "englishTitle": "Pedagogy of Mathematics at Primary Level",
+      "description": "Nature of mathematics, ELPS (Experience-Language-Pictures-Symbols) sequence, place value misconceptions, fractions, geometry, and diagnostic teaching.",
+      "unitsCount": 3,
+      "units": [
+        {
+          "id": "805-unit-1",
+          "unitNumber": "Unit 1",
+          "title": "Nature of Mathematics & ELPS Pedagogical Sequence",
+          "hindiTitle": "गणित की प्रकृति एवं अनुभव-भाषा-चित्र-प्रतीक (ELPS) शिक्षण क्रम",
+          "type": "Detailed Notes",
+          "pages": 27,
+          "pdfFile": "mp-deled-1st-year/805-unit-1.pdf",
+          "summary": "How children construct mathematical thinking, pre-number concepts, place-value bundle-stick activities, and error analysis in primary math.",
+          "keyTopics": [
+            "ELPS Sequence: Experience → Language → Pictures → Symbols",
+            "Pre-Number Concepts: Classification, Seriation & One-to-One Correspondence",
+            "Teaching Place Value (स्थानीय मान) with Dienes Blocks & Tili-Bundle",
+            "Diagnostic & Remedial Teaching in Primary Mathematics"
+          ],
+          "examQuestions": [
+            {
+              "q": "गणित शिक्षण में 'ELPS' अनुक्रम क्या है? उदाहरण सहित स्पष्ट कीजिए।",
+              "a": "प्राथमिक स्तर पर अमूर्त गणितीय अवधारणाओं को सिखाने का वैज्ञानिक क्रम ELPS है: E (Experience - ठोस वस्तुओं जैसे कंकड़/तीलियों से प्रत्यक्ष अनुभव), L (Language - अनुभव को अपनी मातृभाषा में व्यक्त करना), P (Pictures - चित्रों द्वारा निरूपण), तथा S (Symbols - अंत में गणितीय चिह्नों जैसे +, -, = का प्रयोग)।"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "mp-deled-2nd-year": [
+    {
+      "id": "sangyan-adhigam-aur-bal-vikas-901",
+      "code": "Paper 901",
+      "title": "Sangyan, Adhigam aur Bal Vikas (901)",
+      "englishTitle": "Cognition, Learning and the Development of Children",
+      "description": "Cognitive psychology, Behaviorism vs Constructivism, Piaget, Vygotsky, Bruner, Information Processing Theory, play, language, and metacognition.",
+      "unitsCount": 5,
+      "units": [
+        {
+          "id": "901-unit-1",
+          "unitNumber": "Unit 1",
+          "title": "Cognition, Information Processing & Learning Paradigms",
+          "hindiTitle": "संज्ञान एवं अधिगम की समझ तथा सूचना प्रसंस्करण सिद्धांत",
+          "type": "Detailed Notes",
+          "pages": 32,
+          "pdfFile": "mp-deled-2nd-year/901-unit-1.pdf",
+          "summary": "Sensory memory, working memory, long-term schema organization, Pavlov/Skinner behaviorism vs Piaget/Vygotsky social constructivism.",
+          "keyTopics": [
+            "Concept of Cognition (संज्ञान): Sensation, Perception, Attention & Memory",
+            "Atkinson-Shiffrin Multi-Store Memory Model",
+            "Behaviorism (Thorndike, Pavlov, Skinner) vs Constructivism (रचनावाद)",
+            "Role of Prior Knowledge & Metacognition in Classroom Learning"
+          ],
+          "examQuestions": [
+            {
+              "q": "जीन पियाजे के संज्ञानात्मक विकास सिद्धांत की प्रमुख अवस्थाओं एवं शैक्षिक निहितार्थों का वर्णन कीजिए।",
+              "a": "पियाजे के अनुसार बालक 'नन्हे वैज्ञानिक' हैं जो स्कीमा (Schema), आत्मसात्करण (Assimilation), समायोजन (Accommodation) और संतुलिकरण (Equilibration) द्वारा ज्ञान का निर्माण करते हैं। चार अवस्थाएँ: (1) संवेदी-गामक (0-2 वर्ष), (2) पूर्व-संक्रियात्मक (2-7 वर्ष), (3) मूर्त संक्रियात्मक (7-11 वर्ष), (4) औपचारिक/अमूर्त संक्रियात्मक (11+ वर्ष)।"
+            },
+            {
+              "q": "वाइगोत्सकी के सामाजिक-सांस्कृतिक सिद्धांत में ZPD और Scaffolding का क्या अर्थ है?",
+              "a": "ZPD (Zone of Proximal Development / समीपस्थ विकास का क्षेत्र) बालक के वास्तविक विकास स्तर (जो वह स्वयं कर सकता है) और संभावित विकास स्तर (जो वह किसी अनुभवी व्यक्ति की सहायता से कर सकता है) के बीच का अंतर है। Scaffolding (पाड़/ढाँचा) वह अस्थायी सहयोग और संकेत है जो शिक्षक सीखने के दौरान प्रदान करता है।"
+            }
+          ]
+        },
+        {
+          "id": "901-unit-2",
+          "unitNumber": "Unit 2",
+          "title": "Constructivist Pedagogy: Piaget, Vygotsky & Bruner",
+          "hindiTitle": "रचनावादी शिक्षणशास्त्र: पियाजे, वाइगोत्सकी एवं ब्रूनर",
+          "type": "Detailed Notes",
+          "pages": 29,
+          "pdfFile": "mp-deled-2nd-year/901-unit-2.pdf",
+          "summary": "Jerome Bruner's Enactive-Iconic-Symbolic modes, spiral curriculum, Kolb's experiential cycle, and designing constructivist lesson plans.",
+          "keyTopics": [
+            "Bruner's 3 Modes of Representation: Enactive, Iconic, Symbolic",
+            "Spiral Curriculum (सर्पिल पाठ्यचर्या) & Discovery Learning",
+            "Comparing Piaget's Cognitive Constructivism & Vygotsky's Social Constructivism",
+            "5E Constructivist Lesson Plan Model (Engage, Explore, Explain, Elaborate, Evaluate)"
+          ],
+          "examQuestions": [
+            {
+              "q": "जेरोम ब्रूनर के संज्ञानात्मक विकास के तीन चरणों को स्पष्ट कीजिए।",
+              "a": "ब्रूनर ने ज्ञान के प्रतिनिधित्व के तीन स्तर बताए हैं: (1) सक्रियता आधारित (Enactive Stage - क्रियाओं और वस्तुओं को छूकर सीखना), (2) दृश्य-प्रतिमा आधारित (Iconic Stage - चित्रों और मानसिक बिंबों से सीखना), तथा (3) सांकेतिक स्तर (Symbolic Stage - भाषा, तर्क और प्रतीकों के माध्यम से अमूर्त चिंतन)।"
+            }
+          ]
+        },
+        {
+          "id": "901-pyqs",
+          "unitNumber": "Solved PYQs",
+          "title": "Paper 901 Solved PYQs (2020–2025) & High-Yield Short Notes",
+          "hindiTitle": "पेपर 901 विगत वर्षों के हल प्रश्न-पत्र एवं शॉर्ट नोट्स",
+          "type": "Solved PYQs",
+          "pages": 38,
+          "pdfFile": "mp-deled-2nd-year/901-solved-pyqs.pdf",
+          "summary": "Complete 5-year solved board question papers for Paper 901 with theory comparison charts and high-scoring Hindi/English model answers.",
+          "keyTopics": [
+            "Piaget vs Vygotsky vs Bruner Master Comparison Table",
+            "Memory & Forgetting Curve Diagrammatic Answers",
+            "2020–2025 MPBSE Solved Papers"
+          ],
+          "examQuestions": [
+            {
+              "q": "[MPBSE 2024] स्मृति (Memory) के प्रमुख प्रकारों का वर्णन करते हुए विस्मरण (Forgetting) के कारण लिखिए।",
+              "a": "स्मृति के तीन मुख्य स्तर हैं: संवेदी स्मृति (Sensory Memory - 1-2 सेकंड), लघुकालीन/कार्यकारी स्मृति (Short-term/Working Memory - 20-30 सेकंड, क्षमता 7±2 इकाइयाँ), तथा दीर्घकालीन स्मृति (Long-term Memory)। विस्मरण के प्रमुख कारण: अभ्यास का अभाव, पूर्व एवं पश्च अवरोध (Interference), तथा दमन।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "samaj-shiksha-aur-pathyacharya-bodh-902",
+      "code": "Paper 902",
+      "title": "Samaj, Shiksha aur Pathyacharya Bodh (902)",
+      "englishTitle": "Society, Education and Curriculum Understanding",
+      "description": "Epistemology of knowledge, hidden vs overt curriculum, NCF 2005 & NCF 2023, textbook analysis, and democratic school culture.",
+      "unitsCount": 4,
+      "units": [
+        {
+          "id": "902-unit-1",
+          "unitNumber": "Unit 1",
+          "title": "Knowledge, Epistemology & Curriculum Foundations",
+          "hindiTitle": "ज्ञानमीमांसा, शिक्षा के उद्देश्य एवं पाठ्यचर्या की समझ",
+          "type": "Detailed Notes",
+          "pages": 30,
+          "pdfFile": "mp-deled-2nd-year/902-unit-1.pdf",
+          "summary": "Distinction between Curriculum (पाठ्यचर्या), Syllabus (पाठ्यक्रम), and Textbooks (पाठ्यपुस्तक); Hidden Curriculum; NCF guiding principles.",
+          "keyTopics": [
+            "Knowledge vs Information, Belief & Truth (ज्ञान, सूचना और विश्वास में अंतर)",
+            "Curriculum (पाठ्यचर्या) vs Syllabus (पाठ्यक्रम) Comprehensive Comparison",
+            "Hidden Curriculum (प्रच्छन्न पाठ्यचर्या) & School Rituals",
+            "5 Guiding Principles of NCF 2005 & NEP 2020 Curriculum Shifts"
+          ],
+          "examQuestions": [
+            {
+              "q": "पाठ्यचर्या (Curriculum) और पाठ्यक्रम (Syllabus) में क्या अंतर है? प्रच्छन्न पाठ्यचर्या (Hidden Curriculum) को उदाहरण सहित समझाइए।",
+              "a": "पाठ्यचर्या (Curriculum) विद्यालय के समस्त शैक्षिक एवं सह-शैक्षिक अनुभवों का व्यापक दर्शन है, जबकि पाठ्यक्रम (Syllabus) किसी एक विषय की विषयवस्तु एवं इकाइयों की सूची मात्र है। प्रच्छन्न पाठ्यचर्या वे अलिखित नियम, मूल्य और दृष्टिकोण हैं जिन्हें विद्यार्थी विद्यालय की दिनचर्या, बैठने की व्यवस्था और शिक्षकों के व्यवहार से अनजाने में सीखते हैं।"
+            }
+          ]
+        },
+        {
+          "id": "902-pyqs",
+          "unitNumber": "Solved PYQs",
+          "title": "Paper 902 Solved PYQs (2020–2025) & Exam Notes",
+          "hindiTitle": "पेपर 902 हल प्रश्न-पत्र एवं महत्वपूर्ण प्रश्न",
+          "type": "Solved PYQs",
+          "pages": 34,
+          "pdfFile": "mp-deled-2nd-year/902-solved-pyqs.pdf",
+          "summary": "Solved board question papers for Paper 902 with structured headings and NCF flowcharts.",
+          "keyTopics": [
+            "NCF 2005 5 Guiding Principles Flowchart",
+            "Social Stratification & Education Equity Answers",
+            "Complete 2020–2025 Solved Question Bank"
+          ],
+          "examQuestions": [
+            {
+              "q": "[MPBSE 2024] राष्ट्रीय पाठ्यचर्या की रूपरेखा (NCF 2005) के पाँच मार्गदर्शी सिद्धांत लिखिए।",
+              "a": "(1) ज्ञान को स्कूल के बाहरी जीवन से जोड़ना, (2) पढ़ाई को रटंत प्रणाली से मुक्त करना, (3) पाठ्यचर्या का इस प्रकार संवर्धन कि वह बच्चों को चौमुखी विकास के अवसर दे (पाठ्यपुस्तक केंद्रित न रहे), (4) परीक्षा को अधिक लचीला बनाना और कक्षा की गतिविधियों से जोड़ना, (5) देश की लोकतांत्रिक राज्य-व्यवस्था के अंतर्गत एक अधिभावी पहचान का विकास।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shiksha-mein-naveen-pahlu-903",
+      "code": "Paper 903",
+      "title": "Shiksha mein Naveen Pahlu (903)",
+      "englishTitle": "Emerging Trends & Inclusive Perspectives in Education",
+      "description": "Inclusive education, RPWD Act 2016, gender sensitization, ICT integration in pedagogy, peace education, and environmental sustainability.",
+      "unitsCount": 3,
+      "units": [
+        {
+          "id": "903-unit-1",
+          "unitNumber": "Unit 1",
+          "title": "Inclusive Education, RPWD Act 2016 & UDL",
+          "hindiTitle": "समावेशी शिक्षा, दिव्यांगजन अधिकार अधिनियम 2016 एवं UDL",
+          "type": "Detailed Notes",
+          "pages": 26,
+          "pdfFile": "mp-deled-2nd-year/903-unit-1.pdf",
+          "summary": "Transition from Segregation and Integration to Full Inclusion, 21 disabilities in RPWD Act 2016, IEP (Individualized Education Plan), and Universal Design for Learning.",
+          "keyTopics": [
+            "Segregation → Integration → Inclusion (पृथक्करण, एकीकरण एवं समावेशन)",
+            "RPWD Act 2016 & 21 Benchmark Disabilities Overview",
+            "Learning Disabilities: Dyslexia, Dysgraphia, Dyscalculia Identification",
+            "Individualized Education Plan (IEP) & Barrier-Free School Architecture (BALA)"
+          ],
+          "examQuestions": [
+            {
+              "q": "समावेशी शिक्षा (Inclusive Education) की अवधारणा स्पष्ट करते हुए एकीकृत एवं समावेशी शिक्षा में अंतर बताइए।",
+              "a": "एकीकृत शिक्षा (Integrated Education) में विशेष आवश्यकता वाले बालक को सामान्य विद्यालय में प्रवेश तो मिलता है किंतु बालक को ही व्यवस्था के अनुसार ढलना पड़ता है। इसके विपरीत समावेशी शिक्षा (Inclusive Education) में विद्यालय अपनी शिक्षण विधियों, पाठ्यचर्या, मूल्यांकन और भौतिक वातावरण (जैसे रैंप, ब्रेल, TLM) में बदलाव करता है ताकि प्रत्येक बालक सम्मानपूर्वक साथ सीख सके।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shaley-sanskriti-netritva-aur-shikshak-vikas-904",
+      "code": "Paper 904",
+      "title": "Shaley Sanskriti, Netritva aur Shikshak Vikas (904)",
+      "englishTitle": "School Culture, Leadership and Teacher Development",
+      "description": "School Management Committee (SMC), SDP (School Development Plan), action research, CCE evaluation, and professional ethics of teachers.",
+      "unitsCount": 3,
+      "units": [
+        {
+          "id": "904-unit-1",
+          "unitNumber": "Unit 1",
+          "title": "School Leadership, SMC & Action Research",
+          "hindiTitle": "विद्यालय नेतृत्व, शाला प्रबंधन समिति (SMC) एवं क्रियात्मक अनुसंधान",
+          "type": "Detailed Notes",
+          "pages": 25,
+          "pdfFile": "mp-deled-2nd-year/904-unit-1.pdf",
+          "summary": "Structure and functions of SMC under RTE Section 21, Kurt Lewin & Stephen Corey's Action Research steps, DIET/SCERT/NCERT institutional support.",
+          "keyTopics": [
+            "School Management Committee (SMC) Composition (75% Parents, 50% Women)",
+            "Action Research (क्रियात्मक अनुसंधान): Problem → Hypothesis → Action → Reflection",
+            "Continuous & Comprehensive Evaluation (सतत एवं व्यापक मूल्यांकन - CCE)",
+            "Role of DIET, SCERT, NCERT & Cluster Resource Centers (Jan Shiksha Kendra)"
+          ],
+          "examQuestions": [
+            {
+              "q": "क्रियात्मक अनुसंधान (Action Research) क्या है? विद्यालयी समस्याओं के समाधान में इसके सोपान लिखिए।",
+              "a": "स्टीफन कोरे के अनुसार, क्रियात्मक अनुसंधान वह प्रक्रिया है जिसके द्वारा शिक्षक अपनी तात्कालिक कक्षागत समस्याओं (जैसे वर्तनी अशुद्धि, अनियमित उपस्थिति) का वैज्ञानिक ढंग से अध्ययन कर अपने शिक्षण में सुधार लाते हैं। प्रमुख सोपान: (1) समस्या की पहचान एवं परिभाषीकरण, (2) कारणों का विश्लेषण, (3) क्रियात्मक परिकल्पना का निर्माण, (4) कार्ययोजना का क्रियान्वयन, (5) परिणामों का मूल्यांकन।"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "The Brainstorming — MP D.El.Ed Smart Notes Hub",
+  "description": "Complete e-learning and structured academic notes platform for MP D.El.Ed 1st Year & 2nd Year students featuring unit-wise notes, solved PYQs, and protected PDF folders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

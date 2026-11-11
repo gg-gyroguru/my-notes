@@ -1,0 +1,42 @@
+[
+  {
+    "id": "usr-owner-01",
+    "name": "Gyani Guru",
+    "email": "gg.gyaniguru@gmail.com",
+    "password": "owner@brainstorm2026",
+    "role": "owner",
+    "purchasedNotes": ["mp-deled-1st-year", "mp-deled-2nd-year"]
+  },
+  {
+    "id": "usr-kishore-02",
+    "name": "Kishore Yadav",
+    "email": "kishore.yadav@mpdeled.edu.in",
+    "password": "kishore@123",
+    "role": "user",
+    "purchasedNotes": ["mp-deled-1st-year"]
+  },
+  {
+    "id": "usr-ananya-03",
+    "name": "Ananya Sharma",
+    "email": "ananya.sharma@mpdeled.edu.in",
+    "password": "ananya@123",
+    "role": "user",
+    "purchasedNotes": []
+  },
+  {
+    "id": "usr-rohit-04",
+    "name": "Rohit Verma",
+    "email": "rohit.verma@mpdeled.edu.in",
+    "password": "rohit@123",
+    "role": "user",
+    "purchasedNotes": ["mp-deled-2nd-year"]
+  },
+  {
+    "id": "usr-priya-05",
+    "name": "Priya Tiwari",
+    "email": "priya.tiwari@mpdeled.edu.in",
+    "password": "priya@123",
+    "role": "user",
+    "purchasedNotes": ["mp-deled-1st-year", "mp-deled-2nd-year"]
+  }
+]
